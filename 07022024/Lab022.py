@@ -8,5 +8,5 @@ is_pramod_married =False
 my_list = [1, 2,3, 5,4,5]
 
 # Set - unordered collection of unique items
-my_set =
+#my_set =
 
