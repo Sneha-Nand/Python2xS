@@ -6,9 +6,8 @@
 
 # Literals are actually values assigned
 # Literals can be numeric / non-numeric in nature
-name = "Pramod" # String literal
-age = 12 # int literal
-pi = 3.14 # float literal
+name = "Pramod"  # String literal
+age = 12  # int literal
+pi = 3.14  # float literal
 char = 'C'
-print(type(char)) # String literal
-
+print(type(char))  # String literal
